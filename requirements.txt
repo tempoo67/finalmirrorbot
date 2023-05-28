@@ -1,4 +1,4 @@
-aiohttp
+aiohttp==3.8.1
 anytree
 aria2p
 asgiref
@@ -9,12 +9,12 @@ bencoding
 cfscrape
 cloudscraper
 feedparser
-flask
+flask==2.2.2
 gc-python-utils
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-gunicorn
+gunicorn==20.1.0
 heroku3
 lk21
 lxml
