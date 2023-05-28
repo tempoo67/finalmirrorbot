@@ -1,5 +1,6 @@
 aiohttp==3.8.1
 anytree
+tendo
 aria2p
 asgiref
 asyncio
